@@ -1,0 +1,47 @@
+body {
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+font-size: small;
+background-color:black;
+color:white
+
+}
+span.sea{
+    color:cornflowerblue;
+ }
+ span.land{
+    color:darkgreen;
+ }
+ span.dots{
+    color:darkslategray
+ }
+
+ /* unvisited link */
+a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: white;
+  }
+  
+  /* selected link */
+  a:active {
+    color: white;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 500px;
+    object-fit: scale-down;
+    
+  }
